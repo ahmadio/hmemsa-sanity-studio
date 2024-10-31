@@ -8,7 +8,7 @@ export default defineConfig({
   title: 'hmemsa',
 
   projectId: 'fz61ddpv',
-  dataset: 'development',
+  dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
 
